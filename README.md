@@ -1,4 +1,4 @@
-# Planck Keyboard keymap
+# Planck Keyboard keymap (updated 9/2/2016)
 
 This is the keymap of my current Planck Keyboard layout and the hex file for flashing firmware
 
