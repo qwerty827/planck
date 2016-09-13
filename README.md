@@ -1,6 +1,6 @@
 # Planck Keyboard keymap (updated 9/12/2016)
 
-This is the keymap of my current Planck Keyboard layout and the hex file for flashing firmware (programmed using easy AVR).
+This is the keymap of my current Planck Keyboard layout and the hex file for flashing firmware (programmed using C language and command prompt).
 
 The planck keyboard I'm currently using is from R2 group buy of Massdrop, has rev4 pcb, MIT plate, orange anodized aluminum bottom, Zealios 78g switches, blue and orange LEDs and DSA Dolch Keycaps. 
 
