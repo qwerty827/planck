@@ -6,7 +6,7 @@ The planck keyboard I'm currently using is from R2 group buy of Massdrop, has re
 
 For the default layer, I switched the positions between esc and tab, backlight and ctrl and alt and windows to fit the default qwerty layout.
 
-For the lower layer, I used a numpad layout on the 4*4 keys of the board's right side to fit the number buttons and kept the shift on the left for symbol options. I've also put a second set of arrow keys on wasd, and set the home, pageup and pagedown buttons to the three keys below wasd. (I still need to find a way to put the bracket keys on upper layer (Fixed*))
+For the lower layer, I used a numpad layout on the 4X4 keys of the board's right side to fit the number buttons and kept the shift on the left for symbol options. I've also put a second set of arrow keys on wasd, and set the home, pageup and pagedown buttons to the three keys below wasd. (I still need to find a way to put the bracket keys on upper layer (Fixed*))
 
 
 For the upper layer, I placed F1 to F12 at the center, 6 media keys on the left and mouse control keys on the right.
