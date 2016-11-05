@@ -1,6 +1,6 @@
 # Planck Keyboard keymap (updated 11/4/2016)
 
-This is the keymap of my current Planck Keyboard layout and (programmed using C language and command prompt on my ubuntu server).
+This is the keymap of my current Planck Keyboard layout and I programmed it using C language and command prompt on my ubuntu server.
 
 The planck keyboard I'm currently using is from R2 group buy of Massdrop, has rev4 pcb, MIT plate, orange anodized aluminum bottom, Zealios 78g switches, blue and orange LEDs and DSA Dolch Keycaps. 
 
