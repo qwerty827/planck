@@ -1,15 +1,16 @@
-# Planck Keyboard keymap (updated 9/12/2016)
+# Planck Keyboard keymap (updated 11/4/2016)
 
-This is the keymap of my current Planck Keyboard layout and the hex file for flashing firmware (programmed using C language and command prompt).
+This is the keymap of my current Planck Keyboard layout and (programmed using C language and command prompt on my ubuntu server).
 
 The planck keyboard I'm currently using is from R2 group buy of Massdrop, has rev4 pcb, MIT plate, orange anodized aluminum bottom, Zealios 78g switches, blue and orange LEDs and DSA Dolch Keycaps. 
 
-For the default layer, I switched the positions between esc and tab, backlight and ctrl and alt and windows to fit the default qwerty layout.
+For the default layer, I switched the positions between backlight, ctrl, alt and windows to fit the more traditional qwerty layout.
 
-For the lower layer, I used a numpad layout on the 4X4 keys of the board's right side to fit the number buttons and kept the shift on the left for symbol options. I've also put a second set of arrow keys on wasd, and set the home, pageup and pagedown buttons to the three keys below wasd. (I still need to find a way to put the bracket keys on upper layer (Fixed*))
+For the lower layer, I placed the number buttons on the top row and kept the shift on the left for symbol options. I've also put F1 to F12 on the left side of 2nd and 3rd row, and set modifier buttons to the right side, and 4 media keys at the default arrow key positions.
 
+For the upper layer, I placed symbol options on the 1st row, and kept the media keys at the bottom row.
 
-For the upper layer, I placed F1 to F12 at the center, 6 media keys on the left and mouse control keys on the right.
+In Makefile, I changed to ENABLE_BLUETOOTH option to yes, since I'm working on making this keyboard wireless using Adafruit EZ key bluetooth module. 
 
 *UPDATE 9/12/2016: I removed the mouse control keys in the upper layer and replaced 2 of them with opening and closing brackets and kept the enter and semicolon keys for programming purposes.
 
